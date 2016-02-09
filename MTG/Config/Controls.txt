@@ -1,0 +1,11 @@
+Change Perspective: P
+Change Player: U
+Reset Everything: O
+Show Grid: TAB
+
+In Perspective Mode:
+Move: WASD
+Interact: Left Mouse
+
+In Top Down Mode:
+Interact: Left Mouse
