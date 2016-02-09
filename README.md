@@ -1,5 +1,5 @@
 # MTG
-Magic The Gathering prototype.
+Magic The Gathering prototype. Created using C++, OpenGL and SDL.
 
 Spacebar advances past the initial screen.
 Right-Clicking in top down mode brings up the context menu. (Not fully functional)
